@@ -45,5 +45,5 @@ Ensure you handle sensitive information, such as bot tokens and user IDs, secure
 Happy botting!
 
 ## Developer
-visit developer's site : https://zaanind.fanclub.rocks
+zaanind's official website : https://zaanind.fanclub.rocks
 
