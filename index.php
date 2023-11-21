@@ -1,5 +1,5 @@
 <?php
-require_once "admin/bdb.php";
+
 
 $tkn = getenv('tk');
 $chn = getenv('chn');
