@@ -22,12 +22,12 @@ admin1: The Telegram user ID of the first admin.
 admin2: The Telegram user ID of the second admin.
 Example:
 
-``
-$tkn = getenv('tk');
-$chn = getenv('chn');
-$admin1 = getenv('admin1');
-$admin2 = getenv('admin2');
-``
+
+**$tkn = getenv('tk');
+**$chn = getenv('chn');
+**$admin1 = getenv('admin1');
+**$admin2 = getenv('admin2');
+
 3. Bot Usage
 Your Telegram File Sharing Bot is now ready to use! You can share files in the specified channel, and the configured admins will have control over the bot.
 
